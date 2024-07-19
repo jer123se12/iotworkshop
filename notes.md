@@ -340,6 +340,30 @@ void loop() {
 
 
 
+Add function to turn on light
+
+
+Go back to think speak create another field
+This field used to store the button state
+Called button
+Use thingspeak to control the button
+
+To change the state of the button
+
+Use the url on the left to set it
+
+Call the url, changed the field 1 to 2 and then call the url to edit the field number
+
+Lets make it so that if it is one the light is on and when 0 light is off
+
+https://github.com/mathworks/thingspeak-arduino
+
+Use example
+
+Change channel and api key and name of variable
+
+Change if statements 
+
 
 
 
